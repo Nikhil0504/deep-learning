@@ -1,2 +1,2 @@
 # deep-learning
-Building Deep Learning Models with PyTorch
+Deep learning powers many of today’s most exciting AI applications, but how do these models really work under the hood? In this workshop, we will strip away the black-box abstraction and build an intuitive understanding of deep learning from first principles. By constructing key components ourselves, we will uncover the true mechanics behind neural networks and gain insights that will help us train better models, debug issues, and push the boundaries of AI.
